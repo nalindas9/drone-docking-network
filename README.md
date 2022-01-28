@@ -1,5 +1,5 @@
 # drone-docking-network
-[![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nalindas9/drone-docking-network/LICENSE)
+[![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nalindas9/drone-docking-network/blob/main/LICENSE)
 
 Find shortest route for drone docking network 
 
