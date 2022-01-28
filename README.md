@@ -2,6 +2,7 @@
 
 Code is in ``` drone_lighthouse_network.ipynb ``` which can be imported into Google Colab
 
+<img src = "https://i.imgur.com/5H88NQ3.png" width="410">
 <img src = "lighthouses.png" width="410"><img src = "optimal_lighthouses.png" width="410">
 
 Part 1:
