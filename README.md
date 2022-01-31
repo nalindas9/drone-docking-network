@@ -7,6 +7,10 @@ Find shortest route for drone docking network
 
 This algorithm builds the shortest route such that a drone can hop from dock to dock from Stockholm to Torö. [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) was used to obtain the lighthouses geographic data in the region and [pydeck](https://deckgl.readthedocs.io/en/latest/) was used to plot the final route taken by the drone. 
 
+## Output
+<img src = "https://i.imgur.com/5H88NQ3.png" width="410">
+<img src = "optimal_lighthouses.png" width="410">
+
 ## Dependencies
 
 The following dependencies are required to run this package:
@@ -18,10 +22,6 @@ The following dependencies are required to run this package:
 
 ## Running Simulation
 Code is in ``` drone_lighthouse_network.ipynb ``` which can be imported into Google Colab
-
-## Output
-<img src = "https://i.imgur.com/5H88NQ3.png" width="410">
-<img src = "optimal_lighthouses.png" width="410">
 
 ## Approach
 Part 1:
