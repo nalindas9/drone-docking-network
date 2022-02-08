@@ -5,7 +5,7 @@ Find shortest route for drone docking network
 
 ## Overview
 
-This algorithm builds the shortest route such that a drone can hop from dock to dock from Stockholm to Torö. [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap) was used to obtain the lighthouses geographic data in the region and [pydeck](https://deckgl.readthedocs.io/en/latest/) was used to plot the final route taken by the drone. 
+This algorithm builds the shortest route such that a drone can hop from dock to dock from Stockholm to Torö. [OpenStreetMap](https://wiki.openstreetmap.org/wiki/OSMPythonTools) was used to obtain the lighthouses geographic data in the region and [pydeck](https://deckgl.readthedocs.io/en/latest/) was used to plot the final route taken by the drone. 
 
 ## Output
 <img src = "https://i.imgur.com/5H88NQ3.png" width="410">
